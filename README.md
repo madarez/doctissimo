@@ -1,9 +1,9 @@
 # doctissimo
 
-Project #1: A Multilingual Dialogue Dataset Technical Description of Corpus\r
-COMP551: Applied Machine Learning, Dr. Joelle Pineau\endl
+Project #1: A Multilingual Dialogue Dataset Technical Description of Corpus<br>
+COMP551: Applied Machine Learning, Dr. Joelle Pineau<br>
 Team name: GreyJay
 
-Amanda Boatswain Jacques\\
-Taha Ghassemi//
-AhmadReza GodarvandChegini\n
+Amanda Boatswain Jacques<br>
+Taha Ghassemi<br>
+AhmadReza GodarvandChegini<br>
