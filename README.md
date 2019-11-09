@@ -6,8 +6,6 @@
   * Taha Ghassemi
   * AhmadReza GodarvandChegini
 
-### Abstract:
-
 ### I.    INTRODUCTION
 
    We assembled a corpus of conversations on the French-language health forum on Doctissimo.fr using data from the year of 2015. 
